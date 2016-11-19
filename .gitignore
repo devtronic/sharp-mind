@@ -1,0 +1,8 @@
+﻿.vs
+*.lock*.json
+*.xproj
+*.xproj.user
+Properties
+*.sln
+src/SharpMind/bin
+src/SharpMind/obj

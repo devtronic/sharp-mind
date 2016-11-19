@@ -1,0 +1,35 @@
+﻿{
+  "name": "SharpMind",
+  "version": "1.0.0-*",
+  "description": ".NET Port of Legendary Mind (github.com/Devtronic/legendary-mind)",
+  "copyright": "Julian Finkler a.k.a. Devtronic <admin@developer-heaven.de>",
+  "title": "SharpMind - Artifical Neuronal Network For .NET",
+  "authors": [
+    "Julian Finkler <admin@developer-heaven.de>"
+  ],
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.0",
+    "System.Runtime": "4.3.0"
+  },
+  "buildOptions": {
+    "optimize": true,
+    "platform": "anycpu",
+    "outputName": "SharpMind"
+  },
+
+  "frameworks": {
+    "net45": {},
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+  "packOptions": {
+    "summary": "Easy To Use Artifical Neuronal Network For .NET",
+    "tags": [ "AI", "Artificial intelligence", "Neural Network", "Neurons", "ANN" ],
+    "owners": [ "Devtronic" ],
+    "repository": {
+      "url": "https://github.com/Devtronic/sharp-mind"
+    }
+  }
+}
