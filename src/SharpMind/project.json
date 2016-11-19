@@ -30,6 +30,8 @@
     "owners": [ "Devtronic" ],
     "repository": {
       "url": "https://github.com/Devtronic/sharp-mind"
-    }
+    },
+    "iconUrl": "https://raw.githubusercontent.com/Devtronic/sharp-mind/master/icon.ico",
+    "projectUrl": "https: //github.com/Devtronic/sharp-mind"
   }
 }
